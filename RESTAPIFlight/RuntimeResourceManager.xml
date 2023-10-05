@@ -1,0 +1,4 @@
+<RuntimeResourceManager>
+<RuntimeResource><Key>{Flights_REST1!Input.TablePath}</Key><Path>QC</Path><Value>Flights_REST1\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Flights_REST1!Output.TablePath}</Key><Path>QC</Path><Value>Flights_REST1\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+</RuntimeResourceManager>
