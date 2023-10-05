@@ -3,5 +3,9 @@ added data in child branch
 change one
 
 chnage after pull
+<<<<<<< HEAD
+changes by Atharva
+=======
 
 chnage sby Ajay
+>>>>>>> d8d25773427e78fc56f6698eb4c9a8aa6ea01fd9
